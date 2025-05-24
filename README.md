@@ -53,6 +53,7 @@ Nominatim https://nominatim.openstreetmap.org/search q, format
 👥 Development Team
 
 Contributors | LinkedIn
+
 Nibil B George - https://www.linkedin.com/in/nibil-b-george-791a93227/
 
 Deva Dev KA - https://www.linkedin.com/in/devadev-ka/
