@@ -4,21 +4,24 @@ project live link - https://climatask.streamlit.app/
 
 🔑 Core Technical Components
 
-Weather Engine
+1.Weather Engine
+
 Open-Meteo Integration: Real-time weather forecasting
 
 Geocoding: City to coordinates conversion using Nominatim
 
 WMO Code Translation: 45+ weather condition mappings
 
-Quiz Module
+2.Quiz Module
+
 Dynamic question loading
 
 Streak tracking with JSON persistence
 
 API response caching
 
-Picnic Planner
+3.Picnic Planner
+
 Weather suitability scoring algorithm
 
 Collaborative packing lists
@@ -42,15 +45,22 @@ OpenTrivia
 Service Endpoint Parameters
 
 Open-Meteo https://api.open-meteo.com/v1/forecast latitude, longitude, hourly
+
 OpenTrivia https://opentdb.com/api.php amount, category
+
 Nominatim https://nominatim.openstreetmap.org/search q, format
+
 👥 Development Team
 
 Contributors | LinkedIn
 Nibil B George - https://www.linkedin.com/in/nibil-b-george-791a93227/
+
 Deva Dev KA - https://www.linkedin.com/in/devadev-ka/
+
 Akshaya Jayakumar - https://www.linkedin.com/in/akshaya-jayakumar/
+
 Hasbina MK - https://www.linkedin.com/in/hasbina-mk-5418102a3/
+
 🙏 Acknowledgments
 
 Special thanks to:
