@@ -1,4 +1,4 @@
-#🌤️ ClimaTask - Weather-Powered Productivity App Plan smarter with real-time weather insights | Built with Python & Streamlit
+🌤️ ClimaTask - Weather-Powered Productivity App Plan smarter with real-time weather insights | Built with Python & Streamlit
 
 project live link - https://climatask.streamlit.app/
 
